@@ -99,6 +99,7 @@ If you see something missing - please submit a PR 🙏
 
 ## 💸 NFT Marketplaces
 
+- [Solsniper](https://solsniper.xyz/) - Aggregator/Advanced Trading NFT Platform
 - [Tensor](https://tensor.trade/) - AMM/Aggregator
 - [HadeSwap](https://hadeswap.com/) - AMM
 - [Elixir](https://elixirnft.io) - AMM
